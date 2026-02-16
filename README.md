@@ -1,5 +1,5 @@
-# JuliaCosta<br>
-# 👋 Olá, eu sou a Julia Costa
+# Julia-JC<br>
+# 👩‍💻 Olá, eu sou a JuliaCosta 
 
 ### 💻 Futura Desenvolvedora Front-End
 
